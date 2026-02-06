@@ -7,4 +7,7 @@ Limited attempts (5 by default),
 Russian language support, 
 Customizable number range
 
- If you like this project, please give it a star!
+Just copy the code and paste it into Visual Studio to play!
+No Visual studio? play online! https://replit.com/@Eremano/GameGuessNumber
+
+If you like this project, please give it a star!
